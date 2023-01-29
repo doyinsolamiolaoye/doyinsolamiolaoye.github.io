@@ -16,7 +16,7 @@ Welcome, This is Doyinsolami's home on the web!
 -----
 I am a Masters Student at Duke University.
 
- I am an engineer by training and hope to use my research to design actionable solutions for society. You can reach me at at any of the links on the left.
+I am an engineer by training and hope to use my research to design actionable solutions for society. Fastest way to reach me is via [Email]{doyinsolamiolaoye@gmail.com}.
 
 <!-- A data-driven personal website
 ======
