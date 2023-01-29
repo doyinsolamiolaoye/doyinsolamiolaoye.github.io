@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome, This is Doyinsolami's home on the web!
 
-![Hello](/hello.png)
+![Hello](/images/hello.png)
 
 -----
 I am a Masters Student at Duke University.
