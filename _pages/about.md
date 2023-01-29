@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome, This is Doyinsolami's home on the web!.
+Welcome, This is Doyinsolami's home on the web!
 
 <!-- A data-driven personal website
 ======
