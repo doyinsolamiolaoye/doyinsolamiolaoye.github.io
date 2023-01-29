@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome, This is Doyinsolami's home on the web!
 
-=====
+-----
 I am a Masters Student at Duke University.
 
 <!-- A data-driven personal website
